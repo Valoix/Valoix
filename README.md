@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valoix</h1>
 <h3 align="center">A passionate aspiring Software Developer from Australia!</h3>
-<h3 align="center"><a href="https://valoix.com" target="_blank">My Website</a></h3>
+<a href="https://valoix.com" target="_blank"><h3 align="center">My Website</h3></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valoix&label=Profile%20views&color=0e75b6&style=flat" alt="valoix" /> </p>
 
